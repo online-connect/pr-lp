@@ -1,4 +1,4 @@
-日本のコミュニティプロジェクトのPRページです
+コミュニティプロジェクトのPRページです
 ---
 
 ![Size](https://img.shields.io/github/repo-size/online-connect/pr_lp "Size")
