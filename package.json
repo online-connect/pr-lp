@@ -1,0 +1,22 @@
+{
+  "name": "prlp",
+  "version": "1.0.0",
+  "description": "コミュニティプロジェクトのPRページです\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/online-connect/pr_lp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/online-connect/pr_lp/issues"
+  },
+  "homepage": "https://github.com/online-connect/pr_lp#readme",
+  "devDependencies": {
+    "sass": "^1.29.0"
+  }
+}
